@@ -1,0 +1,6 @@
+[
+  {"query": "leases", "expected": ["queue"]},
+  {"query": "backoff", "expected": ["queue"]},
+  {"query": "calibration", "expected": ["sensor"]},
+  {"query": "unicorns", "expected": []}
+]
